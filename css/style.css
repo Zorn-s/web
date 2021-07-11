@@ -9,3 +9,10 @@ h1{
 color: rgb(39, 156, 39);
 }
 
+.menu_item{
+  color: rgb(78, 28, 214);
+}
+
+.menu_item_active{
+  color: rgb(16, 252, 8);
+}
